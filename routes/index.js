@@ -7,7 +7,7 @@ var io = require('socket.io')(express.Server);
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render("indexc9", {name: "ivan"});
+  res.render("joc", {name: "ivan"});
 //    console.log("foo");
 });
 
