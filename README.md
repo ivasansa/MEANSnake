@@ -1,3 +1,4 @@
-# The Drunken Merc
+# MEANsnake
 
-Dankest card game in da hood
+
+Dankest game in da hood

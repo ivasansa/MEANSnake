@@ -2,7 +2,7 @@
     app.AppComponent =
         ng.core.Component({
             selector: 'appProva',
-            template: '<h1>Primera aplicació amb Angular2, {{nom}}</h1>'
+            template: '../public/views/joc.jade'
         })
         .Class({
             constructor: function () {
