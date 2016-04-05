@@ -1,0 +1,19 @@
+extends layout
+
+
+block content
+
+  h1= title
+
+  form(name="login", method="post")
+        div.input
+            div.row
+                div.col-xs-6
+                    p User
+                    input(type="text", id="user", name="user")
+                    p
+                    p Password
+                    input(type="password", id="pass", name="pass")
+                    input(type="submit", value="Login").btn-primary
+
+
